@@ -1,0 +1,13 @@
+\d : Numbers from 0-9
+
+\D : Any character except numbers
+
+\w : Any letter, number, underscore
+
+\W : Not a letter, number, underscore
+
+\s : Space, tab, newline
+
+\S : Not a space, tab, newline
+
+re.IGNORECASE/re.I : Ignores the case of the text
